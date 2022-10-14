@@ -13,3 +13,7 @@ A Flutter app sysnced with hardware of a helmet and providing various other func
 - The app will have access to contact list of your phone and will ask you to sort the contacts in important and non-important categories.
 - The app will be integrated with bluetooth to pick up important calls whereas it will send message to other categories that you are curently driving.
 - It will have some additional widgets.
+
+##Our Team
+
+We are working for a start-up "Tech-Genesis" under "Ek-Lakshayy Private Limited".
