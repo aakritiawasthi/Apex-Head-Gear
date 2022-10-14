@@ -1,4 +1,4 @@
-# map_demo
+# Apex-Head-Gear
 
 A Flutter app sysnced with hardware of a helmet and providing various other functionalities.
 
