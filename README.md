@@ -14,6 +14,6 @@ A Flutter app sysnced with hardware of a helmet and providing various other func
 - The app will be integrated with bluetooth to pick up important calls whereas it will send message to other categories that you are curently driving.
 - It will have some additional widgets.
 
-##Our Team
+## Our Team
 
 We are working for a start-up "Tech-Genesis" under "Ek-Lakshayy Private Limited".
