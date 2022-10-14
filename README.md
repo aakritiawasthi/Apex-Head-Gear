@@ -1,16 +1,15 @@
 # map_demo
 
-A new Flutter project.
+A Flutter app sysnced with hardware of a helmet and providing various other functionalities.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- It has google maps api integrated to select the start location, end location, route and distance calculation
+- You can get both straight line distance and route distance in it.
 
-A few resources to get you started if this is your first Flutter project:
+## Upcoming features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- The bluetooth device will also be integrated with gps to give you directions.
+- The app will have access to contact list of your phone and will ask you to sort the contacts in important and non-important categories.
+- The app will be integrated with bluetooth to pick up important calls whereas it will send message to other categories that you are curently driving.
+- It will have some additional widgets.
